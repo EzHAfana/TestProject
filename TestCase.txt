@@ -1,0 +1,28 @@
+
+#Name : Ez hazem afana
+#Student ID : 120197151
+
+@Test Case:
+
+@Case 1:unit test Fun "assertStatus"
+
+لاختبار لاول لتحقق من التوقعات اذا كانت 302تعني ان الاستجابة خطأ
+
+@Case 2:unit test Fun "assertStatus"
+
+لاختبارالثاني لتحقق من التوقعات اذا كانت 200 تعني ان الاستجابة صحيحة
+
+
+@Case 3:unit test Fun "assertStatus"
+
+لاختبارالثالث لتحقق من التوقعات اذا كانت 500 تعني ان الاستجابة خطأ
+
+
+@Case 4:unit test Fun "assertStatus"
+
+لاختبارالرابع لتحقق من التوقعات اذا كانت 200 تعني ان الاستجابة صحيحة
+
+
+@Case 5:unit test Fun "assertStatus"
+
+لاختبار الخامس لتحقق من التوقعات اذا كانت 200 تعني ان الاستجابة صحيحة
